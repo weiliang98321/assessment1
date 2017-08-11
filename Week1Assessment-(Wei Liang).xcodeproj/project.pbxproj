@@ -12,6 +12,7 @@
 		C0EB31171F3D47520058A1DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0EB31151F3D47520058A1DD /* Main.storyboard */; };
 		C0EB31191F3D47520058A1DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0EB31181F3D47520058A1DD /* Assets.xcassets */; };
 		C0EB311C1F3D47520058A1DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0EB311A1F3D47520058A1DD /* LaunchScreen.storyboard */; };
+		C0EB31241F3D4AA10058A1DD /* UIWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0EB31231F3D4AA10058A1DD /* UIWebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C0EB31181F3D47520058A1DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0EB311B1F3D47520058A1DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0EB311D1F3D47520058A1DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0EB31231F3D4AA10058A1DD /* UIWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIWebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C0EB31111F3D47520058A1DD /* AppDelegate.swift */,
 				C0EB31131F3D47520058A1DD /* ViewController.swift */,
 				C0EB31151F3D47520058A1DD /* Main.storyboard */,
+				C0EB31231F3D4AA10058A1DD /* UIWebViewController.swift */,
 				C0EB31181F3D47520058A1DD /* Assets.xcassets */,
 				C0EB311A1F3D47520058A1DD /* LaunchScreen.storyboard */,
 				C0EB311D1F3D47520058A1DD /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C0EB31141F3D47520058A1DD /* ViewController.swift in Sources */,
+				C0EB31241F3D4AA10058A1DD /* UIWebViewController.swift in Sources */,
 				C0EB31121F3D47520058A1DD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
