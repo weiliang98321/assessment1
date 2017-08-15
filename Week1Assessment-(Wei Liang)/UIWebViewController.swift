@@ -52,13 +52,5 @@ class UIWebViewController: UIViewController , UIWebViewDelegate{
         
     }
     
-    func webViewDidStartLoad(_ webView: UIWebView) {
-        
-        print("Start Loading")
-    }
-    
-    func webViewDidFinishLoad(_ webView: UIWebView) {
-                print("Finish Loaded")
-       }
     
 }
